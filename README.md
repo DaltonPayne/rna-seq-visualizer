@@ -1,5 +1,8 @@
 # RNA-Seq Visualizer
 
+
+![tsnetsne_plot](https://user-images.githubusercontent.com/67125850/236492761-08a3e049-2d6a-4763-9044-b7ce3de5ee7e.png)
+
 This repository contains a Python script for visualizing single-cell RNA sequencing data. It uses Scanpy and various other libraries to preprocess the data, perform dimensionality reduction (PCA and t-SNE), and cluster cells using the Louvain method. Additionally, it generates a t-SNE plot and violin plots for marker genes.
 
 ## Dependencies
